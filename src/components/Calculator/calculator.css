@@ -11,7 +11,7 @@
     border-radius: 1rem;
 }
 .display_screen{
-    @apply bg-black text-white rounded-l text-white text-right p-3 pt-8 rounded-b-none;
+    @apply bg-black text-white rounded-l text-white text-right p-3 pt-8 rounded-b-none h-28;
 }
 .previous_value{
     @apply text-xs text-slate-500;
