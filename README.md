@@ -6,7 +6,7 @@
 - React
 - Redux
 - TailwindCSS
-- 
+  
 In the project directory, you can run:
 
 ```bash
